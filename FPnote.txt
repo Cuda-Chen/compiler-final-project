@@ -1,0 +1,52 @@
+http://epaperpress.com/lexandyacc/calcy.html
+http://davej.io/2015/08/lispy-calculator.html
+http://www.wedesoft.de/bison-flex-automake.html
+https://www.ptt.cc/bbs/PLT/M.1422245376.A.274.html
+https://github.com/rahulraopune/College-Practicals/tree/master/Principles%20of%20Modern%20Compiler%20Design
+
+The most IMPORTANT:
+https://www.l2f.inesc-id.pt/~david/w/pt/The_YACC_Parser_Generator/Example:_Calculator_with_Variables
+http://stackoverflow.com/questions/8632516/how-to-get-string-value-of-token-in-flex-and-bison
+https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
+
+FUNCTION...:
+http://www.gnu.org/software/bison/manual/html_node/Multi_002dfunction-Calc.html
+https://github.com/ashvtol/Multifunction-Calculator
+ttp://premsobel.info/notes/language_tools/bison_examples.html
+http://www.minjiezha.com/tech/2011/01/18/A-Simple-Lambda-Calculus-Evaluator-II.html
+http://assorted.sourceforge.net/clamp/
+https://github.com/ScarlettCanaan/Mini-LISP/tree/master/src
+https://github.com/YWJamesLin/mini_Lisp
+
+http://dinosaur.compilertools.net/bison/bison_5.html
+https://www.yumpu.com/en/document/view/17520585/gordon-s-novak-jr-department-of-computer-sciences-university/93
+http://2k8618.blogspot.tw/p/compiler-design-progams-lex-yacc.html
+http://research.microsoft.com/en-us/um/people/rgal/ar_language/external/compiler.pdf
+http://epaperpress.com/lexandyacc/download/LexAndYaccTutorial.pdf	
+
+http://www.cs.virginia.edu/~jch8f/research/bdc/overview.html
+
+MINI Lisp
+https://github.com/rui314/minilisp
+python ver.
+https://github.com/Josiastech/ply
+
+Python LEX YACC (PLY)
+http://www.dabeaz.com/ply/
+
+c compiler using Lex & Yacc
+https://github.com/rabishah/Mini-C-Compiler-using-Flex-And-Yacc
+http://www.cs.virginia.edu/~jch8f/research/bdc/cgram.html
+
+If else statement
+http://stackoverflow.com/questions/2644597/how-do-i-implement-if-statement-in-flex-bison
+http://memphis.compilertools.net/interpreter.html
+
+http://www.quut.com/c/ANSI-C-grammar-y-2011.html
+http://www.quut.com/c/ANSI-C-grammar-l-2011.html
+http://foja.dcs.fmph.uniba.sk/kompilatory/docs/compiler.pdf
+http://stackoverflow.com/questions/21512022/yacc-shift-reduce-conflict-function-call-vs-function-definition
+http://www.cs.umanitoba.ca/~maheswar/cs329/instructions/inst_4_cpp_lex.html
+http://aquamentus.com/tut_lexyacc.html
+https://www.ptt.cc/bbs/Programming/M.1410966435.A.2AE.html
+http://stackoverflow.com/questions/12779914/error-expected-asm-or-attribute-before-token
